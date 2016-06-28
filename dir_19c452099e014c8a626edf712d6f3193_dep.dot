@@ -1,0 +1,9 @@
+digraph "flexapi/resources" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_1b71947cc889af86b0fe3437fc04a964 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="flexapi" fontname="Helvetica", fontsize="10", URL="dir_1b71947cc889af86b0fe3437fc04a964.html"]
+  dir_19c452099e014c8a626edf712d6f3193 [shape=box, label="resources", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_19c452099e014c8a626edf712d6f3193.html"];
+  }
+}
